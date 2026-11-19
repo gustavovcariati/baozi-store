@@ -1,0 +1,9 @@
+
+# Arquivos locais de configuração
+src/main/resources/application.properties
+
+# Arquivos gerados
+target/
+.classpath
+.project
+.settings/
